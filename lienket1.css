@@ -1,0 +1,30 @@
+.menu {
+    display: flex;
+    padding-left: 120px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+}
+
+.menu>a {
+    margin-left: 40px;
+    text-decoration: none;
+    color: #000308;
+}
+
+.menu>a>p:hover {
+    color: #3be5b1;
+}
+
+.menu>a:hover {
+    text-decoration: underline solid red;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+.chitiet {
+    margin-left: 120px;
+    width: 1170px;
+}
